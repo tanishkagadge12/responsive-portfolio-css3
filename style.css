@@ -176,3 +176,11 @@ footer{
         font-size:2rem;
     }
 }
+#theme-toggle{
+    background:var(--primary);
+    color:white;
+    border:none;
+    padding:10px 15px;
+    border-radius:8px;
+    cursor:pointer;
+}
